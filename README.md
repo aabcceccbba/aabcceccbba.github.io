@@ -19,5 +19,11 @@ In Summer 2015, I interned at CTCE Group and I debugged and optimized webpage an
 
 ## Contact Info
 
-This is [my resume](https://github.com/aabcceccbba/aabcceccbba.github.io/blob/master/KaiyueLu.resume-UPDATE.pdf). 
-And my Email address is [kaiyuelu@gmail.com](kaiyuelu@gmail.com).
+This is [my resume](https://github.com/aabcceccbba/aabcceccbba.github.io/blob/master/KaiyueLu.resume-UPDATE.pdf).
+
+This is [my resume](KaiyueLu.resume-UPDATE.pdf).
+
+This is [my resume](aabcceccbba.github.io/blob/master/KaiyueLu.resume-UPDATE.pdf).
+
+
+And my Email address is [kaiyuelu@gmail.com](http://kaiyuelu@gmail.com).
