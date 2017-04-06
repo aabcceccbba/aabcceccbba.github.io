@@ -8,13 +8,16 @@ I have done a bunch of things:
 
 I use Unity and Visual Studio to add features and adjust attributes of meshed models, and connect the model to the HoloLens.
 
-This is the [Research Description](https://secure.rutgers.edu/urs/projects/projectDetails.aspx?ID=3001).
+This is the [research description](https://secure.rutgers.edu/urs/projects/projectDetails.aspx?ID=3001).
 
 ### Internship
 
 I interned at Bruce Arnold Foundation during Summer, 2016. I worked on an ear training music application using JUCE, and designed GUI for the MIDI I/O.
 
+In Summer 2015, I interned at CTCE Group and I debugged and optimized webpage and updating problems.
+
 
 ## Contact Info
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is [my resume](https://github.com/aabcceccbba/aabcceccbba.github.io/blob/master/KaiyueLu.resume-UPDATE.pdf). 
+And my Email address is [kaiyuelu@gmail.com](kaiyuelu@gmail.com).
