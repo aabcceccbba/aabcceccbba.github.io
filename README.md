@@ -17,10 +17,9 @@ I interned at Bruce Arnold Foundation during Summer, 2016. I worked on an ear tr
 In Summer 2015, I interned at CTCE Group and I debugged and optimized webpage and updating problems.
 
 
+
 ## Contact Info
 
 This is [my resume](KaiyueLu.resume-UPDATE.pdf).
 
-And my Email address is [kaiyuelu@gmail.com](http://kaiyuelu@gmail.com).
-
-<kaiyuelu@gmail.com>
+And this is my email <kaiyuelu@gmail.com>.
