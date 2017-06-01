@@ -1,6 +1,6 @@
 ## Hello World
 
-I'm Kaiyue Lu, majoring in Computer Science in Rutgers University and graduating in May, 2017 :)
+I'm Kaiyue Lu, majoring in Computer Science in Rutgers University and graduated in May, 2017 :)
 
 I have done a bunch of things:
 
