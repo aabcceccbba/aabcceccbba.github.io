@@ -1,12 +1,14 @@
 ## Hello World
 
-I'm Kaiyue Lu, majoring in Computer Science in Rutgers University and graduated in May, 2017 :)
+I'm Kaiyue Lu, majoring in Computer Science in University of Virginia :)
 
 I have done a bunch of things:
 
 ### Research
 
-I use Unity and Visual Studio to add features and adjust attributes of meshed models, and connect the model to the HoloLens.
+- I am currently working on the automatic repair project with Professor Upsorn.
+
+- I used Unity and Visual Studio to add features and adjust attributes of meshed models, and connect the model to the HoloLens.
 
 This is the [research description](https://secure.rutgers.edu/urs/projects/projectDetails.aspx?ID=3001).
 
