@@ -14,10 +14,9 @@ This is the [research description](https://secure.rutgers.edu/urs/projects/proje
 
 ### Internship
 
+I interned at AEEC this Summer, 2018. Our team was working on an alert web application by using Google Cloud Platform tools. The application uses Flask framework. We also do data analysis/prediction based on history data sent to us.
+
 I interned at Bruce Arnold Foundation during Summer, 2016. I worked on an ear training music application using JUCE, and designed GUI for the MIDI I/O.
-
-In Summer 2015, I interned at CTCE Group and I debugged and optimized webpage and updating problems.
-
 
 
 ## Contact Info
