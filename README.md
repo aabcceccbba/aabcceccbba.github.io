@@ -21,6 +21,6 @@ I interned at Bruce Arnold Foundation during Summer, 2016. I worked on an ear tr
 
 ## Contact Info
 
-This is [my resume](KaiyueLu.resume-UPDATE.pdf).
+This is [my resume](resume.pdf).
 
 And this is my email <kaiyuelu@gmail.com>.
