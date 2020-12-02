@@ -1,6 +1,6 @@
 ## Hello World
 
-I'm Kaiyue Lu, majoring in Computer Science in University of Virginia :)
+I'm Kaiyue, majoring in Computer Science in University of Virginia :)
 
 I have done a bunch of things:
 
