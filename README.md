@@ -6,7 +6,7 @@ I graduated with Computer Science degree in University of Virginia.
 
 I have done a bunch of things:
 
-### Jobs
+### Job
 
 - I'm currently working on Amazon core data platform as a SDE. The service is implemented to ingest data from the source database, make transformation between DDB tables based on customers' specific use case, and generate bulk export for all types of customers.
 
